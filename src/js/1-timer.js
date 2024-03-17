@@ -1,5 +1,5 @@
 import flatpickr from "flatpickr";
-0import iziToast from "izitoast";
+import iziToast from "izitoast";
 import "flatpickr/dist/flatpickr.min.css";
 import "izitoast/dist/css/iziToast.min.css";
 
